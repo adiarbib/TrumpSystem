@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\bin\Debug\TrumpSystem.exe.config
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\bin\Debug\TrumpMe.mdf
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\bin\Debug\TrumpMe_log.ldf
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\bin\Debug\TrumpSystem.exe
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\bin\Debug\TrumpSystem.pdb
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\obj\Debug\TrumpSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\obj\Debug\TrumpSystem.exe
+C:\Users\User\Documents\GitHub\TrumpSystem\TrumpSystem\TrumpSystem\obj\Debug\TrumpSystem.pdb
